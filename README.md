@@ -2,7 +2,7 @@
 
 <h1 style="color:white">Hi, I'm sarjun.</h1>
 I'm a BCA data science student in Crescent University<br>
-Started with frontend developement in react and currently learning Jetpack Compose  in Kotlin.
+Started with frontend developement in react and currently learning Backend.
 
 ## 🧰 Languages and Tools 
 <p align="center">
